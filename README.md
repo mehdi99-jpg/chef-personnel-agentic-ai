@@ -37,13 +37,10 @@ Le flux de travail suit les étapes suivantes :
 ## 5. Captures d'Écran (Screenshots)
 
 ### 5.1 Test de la Mémoire et des Ingrédients
-*(Insérer ici la capture d'écran montrant l'initialisation avec les ingrédients et l'allergie au citron)*
+![Test de la Mémoire](snapshots/snapshot-1.png)
 
 ### 5.2 Test du RAG (Recherche Locale)
-*(Insérer ici la capture d'écran montrant le Chef trouvant la recette de poulet locale et signalant l'allergène)*
-
-### 5.3 Test de la Recherche Web et Substitution
-*(Insérer ici la capture d'écran montrant le Chef proposant une alternative sans ail/citron via le web)*
+![Test du RAG](snapshots/screensht-2.png)
 
 ---
 *Projet réalisé dans le cadre du TP : Chef Personnel.*
